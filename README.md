@@ -26,8 +26,8 @@
 **E-mail**：41071133h@gapps.ntnu.edu.tw
 
 # 課程筆記區
->+ [**Week 1**](https://github.com/SAStommy/Web#Week-1)
->+ [**Week 2**](https://github.com/SAStommy/Web#Week-2)
+>+ **Week 1**
+>+ **Week 2**
 >+ **Week 3**
 >+ **Week 4**
 >+ **Week 5**
@@ -59,7 +59,6 @@
 # Week 1
 + 課程介紹
 
-[回目錄](https://github.com/SAStommy/Web#目錄)
 
 # Week 2
 
