@@ -46,7 +46,7 @@
 
 # 作業連結區
 >+ **HW 1**  
-github repo&github page build(https://www.youtube.com/watch?v=HBSfv4xqta0)
+[github repo&github page build](https://www.youtube.com/watch?v=HBSfv4xqta0)
 >+ **HW 2**
 >+ **HW 3**
 >+ **HW 4**
