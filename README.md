@@ -51,7 +51,8 @@
 [react && nodejs && mysql WEB2 build](https://www.youtube.com/watch?v=6lE3Nq32XYw)
 >+ **HW 3**  
 [s3 & EC2](https://youtu.be/XlMKQigkwgM)
->+ **HW 4**
+>+ **HW 4**  
+[vpc & iam](https://youtu.be/VgRum8Pi8jw)
 >+ **HW 5**
 ---
 
