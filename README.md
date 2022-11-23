@@ -53,7 +53,8 @@
 [s3 & EC2](https://youtu.be/XlMKQigkwgM)
 >+ **HW 4**  
 [vpc & iam](https://youtu.be/VgRum8Pi8jw)
->+ **HW 5**
+>+ **HW 5**  
+[dynamoDB & RDS $ S3->static web](https://youtu.be/MXU5Y6GR9nQ)
 ---
 
 # 專題連結區
